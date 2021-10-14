@@ -1,20 +1,3 @@
-"""while True:
-    s=1
-    while s<=10:
-        print(s)
-        s+=1
-    c =(input("Çıkış için X girin"))
-    if c=="x":
-        print("program sonlandı")
-        break
-
-"""# Bir şeyler belli değil ise while komutu kullanıyoruz
-"""
-for s in range(10,0,-2):
-    print(s)
-for harf in("speCtra"):
-    print(harf)
-"""
 adsoyad = input("Adınızı soyadınızı girer misiniz: ")
 print("Hoşgeldin" ,adsoyad)
 calisilangün =int(input("Kaç gün çalıştın"))
