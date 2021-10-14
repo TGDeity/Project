@@ -1,3 +1,4 @@
+import time
 adsoyad = input("Adınızı soyadınızı girer misiniz: ")
 print("Hoşgeldin" ,adsoyad)
 calisilangün =int(input("Kaç gün çalıştın"))
@@ -12,5 +13,5 @@ kesintitoplami = damgavergisi+gelirvergisi+sgkkesintisi
 netücret = brüt-kesintitoplami+fazlamesaic
 print("Bu Ay ki Net ücretiniz")
 print(netücret)
-
+time.sleep(7)
 
